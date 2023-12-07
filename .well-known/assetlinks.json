@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "de.apps28.faircompare.app",
+    "package_name": "de.apps28.faircompare.app.dev",
     "sha256_cert_fingerprints":
     ["C0:3C:E2:72:A2:AA:E0:E9:C8:6F:2C:8F:BA:89:5D:81:68:C5:0A:BE:5C:9A:17:49:17:31:23:CC:18:C2:05:72"]
   }
